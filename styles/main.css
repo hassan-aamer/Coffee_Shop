@@ -307,4 +307,11 @@ header.shadow{
     text-align: center;
     background: var(--second-color);
 }
+.copyright a{
+    font-weight: bold;
+    color: black;
+}
+.copyright a:hover{
+    color: var(--main-color);
+}
 
